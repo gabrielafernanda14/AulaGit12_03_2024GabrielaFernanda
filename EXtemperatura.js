@@ -1,3 +1,4 @@
+//escolhi o let ft
 let ft = 222;
 //fahrenheit - 32
 let celcius = (ft - 32) / 1.8;

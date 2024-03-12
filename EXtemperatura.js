@@ -1,5 +1,5 @@
 let ft = 222;
-
+//fahrenheit - 32
 let celcius = (ft - 32) / 1.8;
 
 let mensagem1 = "graus celcius na sua casa igual a ";

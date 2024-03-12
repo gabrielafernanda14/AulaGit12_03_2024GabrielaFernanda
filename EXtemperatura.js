@@ -3,7 +3,7 @@ let ft = 222;
 let celcius = (ft - 32) / 1.8;
 //adicionei mensagem
 let mensagem1 = "graus celcius na sua casa igual a ";
-
+//somei o celcius
 console.log(mensagem1 + celcius);
 //defini let C
 let c = 50;

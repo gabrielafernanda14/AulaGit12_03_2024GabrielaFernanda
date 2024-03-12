@@ -1,7 +1,7 @@
 let ft = 222;
 //fahrenheit - 32
 let celcius = (ft - 32) / 1.8;
-
+//adicionei mensagem
 let mensagem1 = "graus celcius na sua casa igual a ";
 
 console.log(mensagem1 + celcius);

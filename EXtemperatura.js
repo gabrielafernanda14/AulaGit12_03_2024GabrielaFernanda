@@ -11,5 +11,5 @@ let c = 50;
 let fahrenheit = (c * 1.8) + 32;
 //coloquei uma mensagem
 let mensagem2 = "fahrenheit na sua casa igual a ";
-
+//exibo resultado
 console.log(mensagem2 + fahrenheit);

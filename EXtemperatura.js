@@ -14,3 +14,4 @@ let fahrenheit = (c * 1.8) + 32;
 let mensagem2 = "fahrenheit na sua casa igual a ";
 //exibo resultado
 console.log(mensagem2 + fahrenheit);
+//comentario extra
